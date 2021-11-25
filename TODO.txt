@@ -1,0 +1,7 @@
+TODO make contact page for send messages to you
+TODO finalize color scheme and font for website
+TODO MOSTLY DONE compile media, text, and links for experiences and projects and put into respective sections
+TODO DONE clean up your code 
+TODO DONE create animated background for index.html
+TODO DONE implement automaic changes for phone viewing
+TODO DONE fix bullet points for experiences  
