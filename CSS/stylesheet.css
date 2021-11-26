@@ -142,6 +142,9 @@ div.flex-container > div {
     body {
         --fontSize: 14px;
     }
+    body > div{
+        margin: 2.5% 5%;
+    }
 }
 
 #canvas1 {
