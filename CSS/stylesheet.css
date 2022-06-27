@@ -108,11 +108,11 @@ ul.topnav > li > a {
     font-style: var(--font);
     font-size: var(--fontSize);
 }
-
+/*
 ul.topnav li a:hover:not(.active) {
-    /*text-decoration: line-through;*/
+    text-decoration: line-through;
 }
-
+*/
 div.flex-container {
     display: flex;
 }
