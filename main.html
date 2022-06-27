@@ -6,15 +6,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="CSS/stylesheet.css" rel="stylesheet" />
         <script src="https://kit.fontawesome.com/e942c13fe3.js" crossorigin="anonymous"></script>
+        <script src="onhover.js" defer></script>
     </head>
 
     <body class="fadeup">
         
         <ul class = "topnav">
-            <li class = "left"><a href="index.html">Alberto Escobar</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#experiences">Experiences</a></li>
-            <li><a href="#education">Education</a></li>
+            <li class = "left"><a id = "nav" href="index.html">&nbsp;Alberto Escobar&nbsp;</a></li>
+            <li><a id = "nav" href="#projects">&nbsp;Projects&nbsp;</a></li>
+            <li><a id = "nav" href="#experiences">&nbsp;Experiences&nbsp;</a></li>
+            <li><a id = "nav" href="#education">&nbsp;Education&nbsp;</a></li>
         </ul>
 
         <!-- START OF INTRODUCTION SECTION -->
@@ -28,9 +29,9 @@
                 During my free time I enjoy delving into technical hobbies to improve my abilities in prototyping, programming, 3D printing, and electronics. 
                 Outside of technical work, I enjoy trying new cuisines, studying fashion, and exploring nature and cities.
             </div>
-            <a href="mailto:albertoescobar@live.com"><i class="socials fas fa-envelope fa-2x"></i></a>
-            <a href="https://www.linkedin.com/in/alberto-escobar-mingo-a71826123"><i class="socials fab fa-linkedin fa-2x"></i></a>
-            <a href="https://github.com/alberto-escobar"><i class="socials fab fa-github fa-2x"></i></a>
+            <a target="_blank" href="mailto:albertoescobar@live.com"><i class="socials fas fa-envelope fa-2x"></i></a>
+            <a target="_blank" href="https://www.linkedin.com/in/alberto-escobar-mingo-a71826123"><i class="socials fab fa-linkedin fa-2x"></i></a>
+            <a target="_blank" href="https://github.com/alberto-escobar"><i class="socials fab fa-github fa-2x"></i></a>
         </div>
         <!-- END OF INTRODUCTION SECTION -->
         
@@ -98,7 +99,7 @@
             </div>
 
             <div style="text-align: right;">
-                <a href="https://kardium.com/">
+                <a target="_blank" href="https://kardium.com/">
                     <i class="socials fas fa-heartbeat fa-2x"></i>
                 </a>
             </div>
@@ -123,7 +124,7 @@
                 </div>
             </div>
             <div style="text-align: right;">
-                <a href="https://onlineacademiccommunity.uvic.ca/bmed/">
+                <a target="_blank" href="https://onlineacademiccommunity.uvic.ca/bmed/">
                 <i class="socials fas fa-tools fa-2x"></i>
                 </a>
             </div>
@@ -147,7 +148,7 @@
                 </div>
             </div>
             <div style="text-align: right;">
-                <a href="https://web.uvic.ca/~kelvira/">
+                <a target="_blank" href="https://web.uvic.ca/~kelvira/">
                 <i class="socials fas fa-flask fa-2x"></i>
                 </a>
             </div>
@@ -171,7 +172,7 @@
                 </div>
             </div>
             <div style="text-align: right;">
-                <a href="http://web.uvic.ca/~dharr/index.htm">
+                <a target="_blank" href="http://web.uvic.ca/~dharr/index.htm">
                 <i class="socials fas fa-atom fa-2x"></i>
                 </a>
             </div>
@@ -190,10 +191,16 @@
              New Bias Reporter 
          </div>
          <div class="description">
-            News Bias Reporter is a chrome extension that I developed that provides information to the user about the poitical bias of the news site they are viewing. Currently the extension can provide this information in the form of a popup window when viewing an article or news site. The extension also adds stickers and tooltips indicating political bias to any news site present on a google search result. These features can be disabled in the settings/options menu. The extension retrieves data from an API I also developed and deployed that is a webscrapping web service written specifically for scrapping data from <a style="color: white;" href="https://www.allsides.com">www.allsides.com</a>. The API will periodically scrap the data and store it on a PostgreSQL database to ensure the data persists when the API service is idled during times of no use. Currently this extension is in testing phase but there is hope to upload the extension to the Chrome store for public use once the extension has finished testing.  
+            News Bias Reporter is a chrome extension that I developed that provides information to the user about the poitical bias of the news site they are viewing. 
+            Currently the extension can provide this information in the form of a popup window when viewing an article or news site. 
+            The extension also adds stickers and tooltips indicating political bias to any news site present on a google search result. These features can be disabled in the settings/options menu. 
+            The extension retrieves data from an API I also developed and deployed that is a webscrapping web service written specifically for scrapping data from 
+            <a target="_blank" style="color: white;" href="https://www.allsides.com">www.allsides.com</a>. 
+            The API will periodically scrap the data and store it on a PostgreSQL database to ensure the data persists when the API service is idled during times of no use. 
+            Currently this extension is in testing phase but there is hope to upload the extension to the Chrome store for public use once the extension has finished testing.  
              </div>
          <div style="text-align: right;">
-             <a  href="https://github.com/alberto-escobar/News-Bias-Reporter"><i  class="socials fas fa-solid fa-file-code"></i></a>
+             <a  target="_blank" href="https://github.com/alberto-escobar/News-Bias-Reporter"><i  class="socials fas fa-solid fa-file-code"></i></a>
          </div>
             <!-- START OF CIPHERPAD ENTRY -->
             <hr>
@@ -209,8 +216,8 @@
                 An APK of the first release of the application is available for download at the download icon below.
             </div>
             <div style="text-align: right;">
-                <a  href="https://github.com/alberto-escobar/Cipherpad/releases/download/Release/Cipherpad.V1.0.apk"><i  class="socials fas fa-cloud-download-alt fa-2x"></i></a>
-                <a  href="https://github.com/alberto-escobar/CipherPad"><i  class="socials fas fa-solid fa-file-code"></i></a>
+                <a  target="_blank" href="https://github.com/alberto-escobar/Cipherpad/releases/download/Release/Cipherpad.V1.0.apk"><i  class="socials fas fa-cloud-download-alt fa-2x"></i></a>
+                <a  target="_blank" href="https://github.com/alberto-escobar/CipherPad"><i  class="socials fas fa-solid fa-file-code"></i></a>
             </div>
 
             <!-- START OF MECH458 ENTRY -->
@@ -228,8 +235,8 @@
                 The final demo of the project successfully sorted 48 pieces in 38 seconds with 4 errors made.
             </div>
             <div style="text-align: right;">
-                <a  href="https://www.youtube.com/watch?v=h7KomNMq2mk"><i  class="socials fab fa-brand fa-youtube"></i></a>
-                <a  href="https://github.com/alberto-escobar/MECH458-Final-Project"><i  class="socials fas fa-solid fa-file-code"></i></a>
+                <a  target="_blank" href="https://www.youtube.com/watch?v=h7KomNMq2mk"><i  class="socials fab fa-brand fa-youtube"></i></a>
+                <a  target="_blank" href="https://github.com/alberto-escobar/MECH458-Final-Project"><i  class="socials fas fa-solid fa-file-code"></i></a>
             </div>
 
             <!-- START OF SUSPICOUS MOLE DETECTION ENTRY -->
@@ -249,7 +256,7 @@
                 Statistical analysis was performed on the model to determine accuracy and reliability of the label classification of the neural network. 
                 </div>
             <div style="text-align: right;">
-                <a  href="https://github.com/alberto-escobar/ENGR446"><i  class="socials fas fa-solid fa-file-code"></i></a>
+                <a  target="_blank" href="https://github.com/alberto-escobar/ENGR446"><i  class="socials fas fa-solid fa-file-code"></i></a>
             </div>
 
             <!-- START OF HEALTH MONITORING WEARABLE ENTRY 

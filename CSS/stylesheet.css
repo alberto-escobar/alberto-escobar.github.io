@@ -27,6 +27,7 @@ h1{
 
 .date {
     font-size: 20px;
+    text-align: right;
 }
 
 .description {
@@ -109,7 +110,7 @@ ul.topnav > li > a {
 }
 
 ul.topnav li a:hover:not(.active) {
-    text-decoration: line-through;
+    /*text-decoration: line-through;*/
 }
 
 div.flex-container {
