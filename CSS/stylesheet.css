@@ -63,6 +63,7 @@ h1{
 }
 
 body {
+    --footerColor:  #696969;
     --textColor:  #d4d4d4;
     --hoverColor: rgb(238, 255, 0);
     --backgroundColor: #242424;
@@ -139,6 +140,7 @@ div.flex-container > div {
     }
     .date {
         font-size: 18px;
+        text-align: left;
     }
     body {
         --fontSize: 14px;
@@ -146,6 +148,7 @@ div.flex-container > div {
     body > div{
         margin: 2.5% 5%;
     }
+
 }
 
 #canvas1 {
@@ -178,4 +181,8 @@ ul {
     list-style-position: outside;
 }
 
+footer {
+    text-align: center;
+    color: var(--footerColor);
+}
   
