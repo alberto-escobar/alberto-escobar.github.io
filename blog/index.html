@@ -1,15 +1,21 @@
 ---
 layout: default
-title: Blog
 ---
-
-<h1>Blog</h1>
-<h2>Hey! You should not be here >:(</h2>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <small>{{ post.date | date: "%B %d, %Y" }}</small>
-    </li>
-  {% endfor %}
-</ul>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Alberto Escobar Blog</title>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+      <h1>Blog</h1>
+      <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <small>{{ post.date | date: "%B %d, %Y" }}</small>
+          </li>
+        {% endfor %}
+      </ul>
+    </body>
+</html>
