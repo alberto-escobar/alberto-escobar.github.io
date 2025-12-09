@@ -42,7 +42,7 @@ In my own experiences working with Chinese international classmates, I have foun
 Overall, my learning from this course has given me new tools to strengthen my interactions with Chinese-speaking peers. Even being able to use a little Chinese in casual conversation shows openness and respect, and I hope it helps my Chinese colleagues feel that their culture is welcomed and valued here in Canada. I plan to continue applying what I have learned about cultural similarities and differences. Not only with Chinese classmates, but with people from all cultural backgrounds. This awareness will help me build more inclusive, thoughtful, and meaningful relationships both inside and outside the classroom.
 
 ## Character Exploration: 喜
-<img src="/assets/images/heytea.jpg" alt="Hey Tea storefront" width="600">
+<img src="/blog/assets/images/HeyTea.jpg" alt="Hey Tea storefront" width="600">
 ### **Character and Pinyin**
 喜 (xǐ)
 
