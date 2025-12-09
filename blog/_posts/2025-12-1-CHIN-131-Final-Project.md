@@ -41,4 +41,28 @@ In my own experiences working with Chinese international classmates, I have foun
 
 Overall, my learning from this course has given me new tools to strengthen my interactions with Chinese-speaking peers. Even being able to use a little Chinese in casual conversation shows openness and respect, and I hope it helps my Chinese colleagues feel that their culture is welcomed and valued here in Canada. I plan to continue applying what I have learned about cultural similarities and differences. Not only with Chinese classmates, but with people from all cultural backgrounds. This awareness will help me build more inclusive, thoughtful, and meaningful relationships both inside and outside the classroom.
 
-## Character
+## Character Exploration: 喜
+<img src="/assets/images/heytea.jpg" alt="Hey Tea storefront" width="600">
+### **Character and Pinyin**
+喜 (xǐ)
+
+### **Meaning**  
+Happy, joyful, like; happiness, joy
+
+### **Structure**  
+The radical here is 口 (mouth), which appears at the bottom of the character. The top component is 壴, which historically represents a drum. When combining a drum and a mouth, I imagine drumming and cheering during a celebration, which helps me remember why 喜 means “happy” or “joyful.”
+
+### **Location**  
+This signage comes from the store Hey Tea 喜茶. The image I used is from their New York City storefront, but there are also locations near where I live, such as in Richmond and Burnaby.
+
+### **Personal Importance**  
+This character is meaningful to me because it appears in 喜茶, the Chinese name for Hey Tea, a brand I personally love. The literal meaning of 喜茶 is “joyful tea”, which perfectly describes how their drinks make me feel.
+
+The radical 口 also appears in many characters I learned throughout the semester, such as:
+
+- 喝 (hē) — to drink  
+- 叫 (jiào) — to call  
+- 唱 (chàng) — to sing  
+
+### **Cultural Background**  
+Hey Tea is extremely popular in China with over 4,000 stores, and its expansion into places like Canada, Singapore, and Australia shows how Chinese beverage culture has become a global trend.
