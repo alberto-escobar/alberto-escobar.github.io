@@ -89,6 +89,6 @@ This picture is of the 包好吃 Yummy Bao store at Crystal Mall in Burnaby. Thi
 I walked past this store recently and I could easily read this character on the sign. I also really love steamed buns and when I ordered them I thought that the name of the store is very fitting for how good they were. 包好吃 literally means “the buns taste good,” which matched my experience when I tried them.
 
 ### **Cultural Background**  
-The character 包 shows up in iconic foods in Chinese cuisine. 包子 (steamed buns) are comforting, affordable, and something many people grow up eating the. They are commonely eaten for breakfast, as a quick snack, or as a side dish for lunch or dinner.
+The character 包 shows up in iconic foods in Chinese cuisine. 包子 (steamed buns) are comforting, affordable, and something many people grow up eating the. They are commonly eaten for breakfast, as a quick snack, or as a side dish for lunch or dinner.
 
 Crystal Mall itself is a cultural hub in Burnaby. Walking through it feels like stepping into a little slice of East Asia. You’ll see food and grocery stalls with handwritten signs, vendors chatting in Mandarin or Cantonese, and lots of traditional foods you won’t find in other malls. Crystal Mall reminds me how language and food travel with people and help keep cultural traditions alive in Vancouver.
