@@ -118,6 +118,7 @@ When I visited Shaxi, I thought the town was beautiful. As I walked past this sl
 The full slogan painted on the wall is:
 
 “中国要富强，民族要兴旺，人口要控制。”
+Zhōngguó yào fùqiáng, mínzú yào xīngwàng, rénkǒu yào kòngzhì.
 
 which translates to:
 
