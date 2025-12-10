@@ -42,7 +42,9 @@ In my own experiences working with Chinese international classmates, I have foun
 Overall, my learning from this course has given me new tools to strengthen my interactions with Chinese-speaking peers. Even being able to use a little Chinese in casual conversation shows openness and respect, and I hope it helps my Chinese colleagues feel that their culture is welcomed and valued here in Canada. I plan to continue applying what I have learned about cultural similarities and differences. Not only with Chinese classmates, but with people from all cultural backgrounds. This awareness will help me build more inclusive, thoughtful, and meaningful relationships both inside and outside the classroom.
 
 ## Character Exploration: 喜
-<img src="/blog/assets/images/HeyTea.jpg" alt="Hey Tea storefront" width="600">
+
+<img src="/blog/assets/images/HeyTea.jpg" alt="Hey Tea storefront" width="500">
+
 ### **Character and Pinyin**
 喜 (xǐ)
 
@@ -66,3 +68,27 @@ The radical 口 also appears in many characters I learned throughout the semeste
 
 ### **Cultural Background**  
 Hey Tea is extremely popular in China with over 4,000 stores, and its expansion into places like Canada, Singapore, and Australia shows how Chinese beverage culture has become a global trend.
+
+## Character Exploration: 包
+
+<img src="/blog/assets/images/YummyBao.jpg" alt="Yummy Bao storefront" width="500">
+
+### **Character and Pinyin**
+包 (bāo)
+
+### **Meaning**  
+To wrap; bag; bundle
+
+### **Structure**  
+This character has the radical 勹 (to wrap) and the component 巳 (historically this has meant snake). Putting them together, the character 包 visually suggests something being wrapped or a wrapped item.
+
+### **Location**  
+This picture is of the 包好吃 Yummy Bao store at Crystal Mall in Burnaby. This store opened up within the alst 12 months and they make really good steams buns!
+
+### **Personal Importance**  
+I walked past this store recently and I could easily read this character on the sign. I also really love steamed buns and when I ordered them I thought that the name of the store is very fitting for how good they were. 包好吃 literally means “the buns taste good,” which matched my experience when I tried them.
+
+### **Cultural Background**  
+The character 包 shows up in iconic foods in Chinese cuisine. 包子 (steamed buns) are comforting, affordable, and something many people grow up eating—whether as breakfast, a quick snack, or a side dish for lunch or dinner.
+
+Crystal Mall itself is a cultural hub in Burnaby. Walking through it feels like stepping into a little slice of East Asia. You’ll see food and grocery stalls with handwritten signs, vendors chatting in Mandarin or Cantonese, and lots of traditional foods you won’t find in other malls. Crystal Mall reminds me how language and food travel with people and help keep cultural traditions alive in Vancouver.
