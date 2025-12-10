@@ -112,7 +112,7 @@ This character is made up of the radical 宀 (roof) and the component 畐 (abund
 I took this picture while traveling in China, in the town of Shaxi in Yunnan province.
 
 ### **Personal Importance**  
-When I visited Shaxi, I thought it was incredibly beautiful. As I walked past this slogan on a wall, I asked my girlfriend about it. She explained both the meaning of the text and how slogans like this were used before the One-Child Policy was introduced. I found it fascinating, because it felt like a relic from a different era. Ine when China was dealing with very different social challenges and used public messaging to guide people’s behavior before implementing major policies.
+When I visited Shaxi, I thought the town was beautiful. As I walked past this slogan on a wall, I asked my girlfriend about it. She explained both the meaning of the text and how slogans like this were used before the One-Child Policy was introduced. I found it fascinating, because it felt like a relic from a different era. One when China was dealing with very different social challenges and used public messaging to guide people’s behavior before implementing major policies.
 
 ### **Cultural Background**  
 The full slogan painted on the wall is:
@@ -123,4 +123,4 @@ which translates to:
 
 “China must become rich and strong, the nation must prosper, and the population must be controlled.”
 
-These kinds of slogans were extremely common across China during the late 20th century. They were used to encourage families to stop having too many children as the government became concerned about population growth. Many of these slogans appeared before the formal introduction of the One-Child Policy, making them a snapshot of the government’s messaging strategy at the time.
+These kinds of slogans were extremely common across China during the mid to late 20th century. They were used to encourage families to stop having too many children as the government became concerned about population growth. Many of these slogans appeared before the formal introduction of the One-Child Policy, making them a snapshot of the government’s messaging strategy at the time.
