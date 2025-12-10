@@ -91,4 +91,36 @@ I walked past this store recently and I could easily read this character on the 
 ### **Cultural Background**  
 The character 包 shows up in iconic foods in Chinese cuisine. 包子 (steamed buns) are comforting, affordable, and something many people grow up eating the. They are commonly eaten for breakfast, as a quick snack, or as a side dish for lunch or dinner.
 
+Also 包 (bāo) sounds very similar to 保 (bǎo), which means “to guarantee” or “to ensure.” Because of this, 包好吃 can also sound like 保好吃, meaning “guaranteed delicious.” It gives the store name a fun double meaning.
+
 Crystal Mall itself is a cultural hub in Burnaby. Walking through it feels like stepping into a little slice of East Asia. You’ll see food and grocery stalls with handwritten signs, vendors chatting in Mandarin or Cantonese, and lots of traditional foods you won’t find in other malls. Crystal Mall reminds me how language and food travel with people and help keep cultural traditions alive in Vancouver.
+
+## Character Exploration: 富
+
+<img src="/blog/assets/images/Slogan.jpg" alt="Chinese Slogan" width="500">
+
+### **Character and Pinyin**
+富 (fù)
+
+### **Meaning**  
+Rich, wealthy, abundant, ample
+
+### **Structure**  
+This character is made up of the radical 宀 (roof) and the component 畐 (abundance). 畐 contains two parts: 口 (mouth) and 田 (field). Together, 富 creates the image of having abundant food and resources under one roof, which conveys the idea of wealth.
+
+### **Location**  
+I took this picture while traveling in China, in the town of Shaxi in Yunnan province.
+
+### **Personal Importance**  
+When I visited Shaxi, I thought it was incredibly beautiful. As I walked past this slogan on a wall, I asked my girlfriend about it. She explained both the meaning of the text and how slogans like this were used before the One-Child Policy was introduced. I found it fascinating, because it felt like a relic from a different era. Ine when China was dealing with very different social challenges and used public messaging to guide people’s behavior before implementing major policies.
+
+### **Cultural Background**  
+The full slogan painted on the wall is:
+
+“中国要富强，民族要兴旺，人口要控制。”
+
+which translates to:
+
+“China must become rich and strong, the nation must prosper, and the population must be controlled.”
+
+These kinds of slogans were extremely common across China during the late 20th century. They were used to encourage families to stop having too many children as the government became concerned about population growth. Many of these slogans appeared before the formal introduction of the One-Child Policy, making them a snapshot of the government’s messaging strategy at the time.
