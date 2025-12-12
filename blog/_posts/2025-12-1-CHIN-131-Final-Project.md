@@ -6,6 +6,7 @@
 
 <details>
 <summary>Video Script</summary>
+<p>
 大家好！
 Dàjiā hǎo!
 Hi everyone! 
@@ -185,6 +186,7 @@ Best of lock with courses!
 很高兴认识你们，再见！
 Hěn gāoxìng rènshi nǐmen, zàijiàn!
 Nice meeting you all, bye!
+</p>
 </details>
 
 [**Video Script PDF**]({{ site.baseurl }}{% link /blog/assets/documents/CHIN 131 Final Project Script.pdf %})
