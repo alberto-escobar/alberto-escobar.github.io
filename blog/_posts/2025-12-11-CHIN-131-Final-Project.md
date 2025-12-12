@@ -32,6 +32,38 @@ In my own experiences working with Chinese international classmates, I have foun
 
 Overall, my learning from this course has given me new tools to strengthen my interactions with Chinese-speaking peers. Even being able to use a little Chinese in casual conversation shows openness and respect, and I hope it helps my Chinese colleagues feel that their culture is welcomed and valued here in Canada. I plan to continue applying what I have learned about cultural similarities and differences. Not only with Chinese classmates, but with people from all cultural backgrounds. This awareness will help me build more inclusive, thoughtful, and meaningful relationships both inside and outside the classroom.
 
+## Character Exploration: 富
+
+<img src="/blog/assets/images/Slogan.jpg" alt="Chinese Slogan" width="500">
+
+### **Character and Pinyin**
+富 (fù)
+
+### **Meaning**  
+Rich, wealthy, abundant, ample
+
+### **Structure**  
+This character is made up of the radical 宀 (roof) and the component 畐 (abundance). 畐 contains two parts: 口 (mouth) and 田 (field). Together, 富 creates the image of having abundant food and resources under one roof, which conveys the idea of wealth.
+
+### **Location**  
+I took this picture while traveling in China, in the town of Shaxi in Yunnan province.
+
+### **Personal Importance**  
+When I visited Shaxi, I thought the town was beautiful. As I walked past this slogan on a wall, I asked my girlfriend about it. She explained both the meaning of the text and how slogans like this were used before the One-Child Policy was introduced. I found it fascinating, because it felt like a relic from a different era. One when China was dealing with very different social challenges and used public messaging to guide people’s behavior before implementing major policies.
+
+### **Cultural Background**  
+The full slogan painted on the wall is:
+
+“中国要富强，民族要兴旺，人口要控制。”
+
+Zhōngguó yào fùqiáng, mínzú yào xīngwàng, rénkǒu yào kòngzhì.
+
+which translates to:
+
+“China must become rich and strong, the nation must prosper, and the population must be controlled.”
+
+These kinds of slogans were extremely common across China during the mid to late 20th century. They were used to encourage families to stop having too many children as the government became concerned about population growth. Many of these slogans appeared before the formal introduction of the One-Child Policy, making them a snapshot of the government’s messaging strategy at the time.
+
 ## Character Exploration: 喜
 
 <img src="/blog/assets/images/HeyTea.jpg" alt="Hey Tea storefront" width="500">
@@ -85,34 +117,3 @@ The character 包 shows up in iconic foods in Chinese cuisine. 包子 (steamed b
 Also 包 (bāo) sounds very similar to 保 (bǎo), which means “to guarantee” or “to ensure.” Because of this, 包好吃 can also sound like 保好吃, meaning “guaranteed delicious.” It gives the store name a fun double meaning.
 
 Crystal Mall itself is a cultural hub in Burnaby. Walking through it feels like stepping into a little slice of East Asia. You’ll see food and grocery stalls with handwritten signs, vendors chatting in Mandarin or Cantonese, and lots of traditional foods you won’t find in other malls. Crystal Mall reminds me how language and food travel with people and help keep cultural traditions alive in Vancouver.
-
-## Character Exploration: 富
-
-<img src="/blog/assets/images/Slogan.jpg" alt="Chinese Slogan" width="500">
-
-### **Character and Pinyin**
-富 (fù)
-
-### **Meaning**  
-Rich, wealthy, abundant, ample
-
-### **Structure**  
-This character is made up of the radical 宀 (roof) and the component 畐 (abundance). 畐 contains two parts: 口 (mouth) and 田 (field). Together, 富 creates the image of having abundant food and resources under one roof, which conveys the idea of wealth.
-
-### **Location**  
-I took this picture while traveling in China, in the town of Shaxi in Yunnan province.
-
-### **Personal Importance**  
-When I visited Shaxi, I thought the town was beautiful. As I walked past this slogan on a wall, I asked my girlfriend about it. She explained both the meaning of the text and how slogans like this were used before the One-Child Policy was introduced. I found it fascinating, because it felt like a relic from a different era. One when China was dealing with very different social challenges and used public messaging to guide people’s behavior before implementing major policies.
-
-### **Cultural Background**  
-The full slogan painted on the wall is:
-
-“中国要富强，民族要兴旺，人口要控制。”
-Zhōngguó yào fùqiáng, mínzú yào xīngwàng, rénkǒu yào kòngzhì.
-
-which translates to:
-
-“China must become rich and strong, the nation must prosper, and the population must be controlled.”
-
-These kinds of slogans were extremely common across China during the mid to late 20th century. They were used to encourage families to stop having too many children as the government became concerned about population growth. Many of these slogans appeared before the formal introduction of the One-Child Policy, making them a snapshot of the government’s messaging strategy at the time.
