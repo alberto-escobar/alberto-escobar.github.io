@@ -5,17 +5,189 @@
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BTYRiNtLLQk?si=Kul4zi1XASiVKgFj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <details>
-  <summary>Script</summary>
+<summary>Video Script</summary>
+大家好！
+Dàjiā hǎo!
+Hi everyone! 
 
-  Here is the hidden content!  
-  You can put **Markdown**, images, code fences, lists, etc.
+我姓 Escobar Mingo，我叫 Alberto，你也可以叫我奥伦。
+Wǒ xìng Escobar Mingo, wǒ jiào Alberto, nǐ yě kěyǐ jiào wǒ Ào Lún.
+My last name is Escobar Mingo, my name is Alberto, you can also call me Ao Lun.
 
-  - Bullet point
-  - More text
+我今年二十九岁。
+Wǒ jīnnián èrshíjiǔ suì.
+This year I am 29 years old.
 
-  ```python
-  print("This also works!")
+我的生日是八月五号。
+Wǒ de shēngrì shì bā yuè wǔ hào.
+My birthday is on August 5th.
+
+我今年在温哥华学习。
+Wǒ jīnnián zài Wēngēhuá xuéxí.
+This year I am studying in Vancouver.
+
+我是 UBC 的大四学生。
+Wǒ shì UBC de dà sì xuéshēng.
+I am a 4th year student at UBC.
+
+我学计算机科学。
+Wǒ xué jìsuànjī kēxué.
+I am studying Computer Science.
+
+我想做计算机工程师。我也想在 Amazon 工作。
+Wǒ xiǎng zuò jìsuànjī gōngchéngshī. Wǒ yě xiǎng zài Amazon gōngzuò.
+I want to work as a software engineer, I also want to work at Amazon.
+
+我的家有五口人：我妈妈、爸爸，两个姐姐和我。
+Wǒ de jiā yǒu wǔ kǒu rén: wǒ māma, bàba, liǎng gè jiějie hé wǒ.
+My family has five people, my mom, my dad, my 2 older sisters, and me.
+
+我妈妈和爸爸不工作，我大姐是律师，我二姐是珠宝商人。
+Wǒ māma hé bàba bù gōngzuò, wǒ dàjiě shì lǜshī, wǒ èrjiě shìzhūbǎo shāngrén.
+My mom and dad do not work, my oldest sister is a lawyer and my second oldest sister is a jeweler.
+
+我们都是智利人。
+Wǒmen dōu shì Zhìlì rén.
+We are all from Chile.
+
+我有一只猫，它叫 Trevi，它三岁。我爱我的猫。
+Wǒ yǒu yì zhī māo, tā jiào Trevi, tā sān suì. Wǒ ài wǒ de māo.
+I have 1 cat, his name is Trevi, he is 3 years old. I love my cat.
+
+我有一个女朋友。
+Wǒ yǒu yí gè nǚpéngyou.
+I have a girlfriend.
+
+她是中国重庆人。
+Tā shì Zhōngguó Chóngqìng rén.
+She is from Chongqing, China
+
+她在 SFU 学计算机科学。
+Tā zài SFU xué jìsuànjī kēxué.
+She studies Computer Science at SFU.
+
+去年我和我女朋友去重庆旅游。
+Qùnián wǒ hé wǒ nǚpéngyou qù Chóngqìng lǚyóu.
+Last year we went travelling in Chongqing.
+
+我们爱重庆！
+Wǒmen ài Chóngqìng!
+We love Chonqing!
+
+我明年五月一号去重庆，太棒了！
+Wǒ míngnián wǔyuè yī hào qù Chóngqìng, tài bàng le!
+This year on may 1st we will be going to Chongqing, hell yea!
+
+这是我、我女朋友和我猫的照片。
+Zhè shì wǒ, wǒ nǚpéngyou hé wǒ māo de zhàopiàn.
+This is a photo of me, my girlfriend, and my cat.
+
+我喜欢看书、看电影和吃饭，可是我不喜欢英国菜。
+Wǒ xǐhuān kànshū, kàn diànyǐng hé chīfàn, kěshì wǒ bù xǐhuān Yīngguó cài.
+I like to read books, watch movies, and eat food, but I do not like british food.
+
+我爱吃中国菜，很好吃！
+Wǒ ài chī Zhōngguó cài, hěn hǎochī!
+I like chinese food, it is tasty!
+
+我觉得《三体》这本书太有意思了。
+Wǒ juéde Sāntǐ zhè běn shū tài yǒuyìsi le.
+I think the book, Three Body Problem, is very interest!
+
+我不喜欢打棒球，因为我不懂棒球， 所以我不打棒球。
+Wǒ bù xǐhuān dǎ bàngqiú, yīnwèi wǒ bù dǒng bàngqiú, suǒyǐ wǒ bù dǎ bàngqiú.
+I dont like playing baseball, because I dont understand the game, so I dont play it.
+
+你喜欢吃哪国菜？我们一起去吃饭吧！
+Nǐ xǐhuān chī nǎ guó cài? Wǒmen yìqǐ qù chīfàn ba!
+What cuisine do you like to eat? We should go eat together some time!
+
+我今天早上九点起床吃早饭然后去 UBC。
+Wǒ jīntiān zǎoshang jiǔ diǎn qǐchuáng chī zǎofàn ránhòu qù UBC.
+Today I woke up at 9 AM, ate breakfast, and went you UBC.
+
+我中午十二点半上中文课，然后我在 IKB 图书馆学习。
+Wǒ zhōngwǔ shí'èr diǎn bàn shàng Zhōngwén kè, ránhòu wǒ zài IKB túshūguǎn xuéxí。
+I started chinses class at 12:30 PM, then I went to IKB to study.
+
+我下午三点半上计算机课，然后五点回家。
+Wǒ xiàwǔ sān diǎn bàn shàng jìsuànjī kè ránhòu wǔ diǎn huí jiā.
+I had computer class at 3:30 PM, then I went home at 5 PM.
+
+我做晚饭然后吃晚饭和看电视。
+Wǒ zuò wǎnfàn ránhòu chī wǎnfàn hé kàn diànshì.
+I cooked dinner, then ate dinner and watched tv.
+
+我晚上十二点睡觉。
+Wǒ wǎnshang shí'èr diǎn shuìjiào.
+At midnight I went to sleep.
+
+我这个学期很忙.
+Wǒ zhège xuéqī hěn máng.
+This semester I was very busy.
+
+我周一和周五没有课，可是我做计算机科学研究。
+Wǒ zhōuyī hé zhōuwǔ méiyǒu kè, kěshì wǒ zuò jìsuànjī kēxué yánjiū.
+On Monday and Friday I do not have class but I do Computer Science research.
+
+我周二和周四中午十二点半在 Buchanan 有中文课，下午三点半在 Macleod 有计算机课。
+Wǒ zhōu’èr hé zhōusì zhōngwǔ shí'èr diǎn bàn zài Buchanan yǒu Zhōngwén kè, xiàwǔ sān diǎn bàn zài Macleod yǒu jìsuànjī kè.
+On Tuesday and Thursdays at 12:30 PM I have Chinese class at Buchanan and 3:30 PM I have Computer class at Macleod.
+
+我周三二点在 Buchanan 有中文 OP。
+Wǒ zhōusān liǎng diǎn zài Buchanan yǒu Zhōngwén OP.
+On Wednesday at 2 PM I have Chinese OP at Buchanan.
+
+我周末不忙
+Wǒ zhōumò bù máng.
+On weekends I am not busy.
+
+下个学期我也很忙，可是下个学期也是我最后一个学期！
+Xià gè xuéqī wǒ yě hěn máng, kěshì xià gè xuéqī yě shì wǒ zuìhòu yí gè xuéqī!
+Next semester is also busy but it is my last semester!
+
+我下个学期有四门课。
+Wǒ xià gè xuéqī yǒu sì mén kè.
+Next semester I have 4 courses.
+
+你下个学期忙不忙？你下个学期有几门课？
+Nǐ xià gè xuéqī máng bù máng? Nǐ xià gè xuéqī yǒu jǐ mén kè?
+Is your next semester busy? How many courses do you have next semester?
+
+我周末喜欢常常去 Cypress 山滑雪板，有的时候也去咖啡店喝抹茶或者喝咖啡。
+Wǒ zhōumò xǐhuān chángcháng qù Cypress shān huáxuěbǎn, yǒu de shíhou yě qù kāfēidiàn hē mǒchá huòzhě hē kāfēi.
+During the weekends I frequently go to cypress to snowboard, and sometimes I go to cafes to drink matcha or coffee.
+
+我觉得加拿大人都喜欢喝抹茶。
+Wǒ juéde Jiānádà rén dōu xǐhuān hē mǒchá.
+I think all Canadians really like drinking matcha.
+
+我喜欢去 Cowdog 咖啡店喝一杯抹茶和学习。
+Wǒ xǐhuān qù Cowdog kāfēidiàn hē yì bēi mǒchá hé xuéxí.
+I like going to Cowdog cafe to drink matcha and study.
+
+我觉得星巴克的抹茶不好喝， 也太贵了。
+Wǒ juéde Xīngbākè de mǒchá bù hǎohē, yě tài guì le.
+I think Starbucks matcha is not good and expensive.
+
+你喜欢喝咖啡还是喝抹茶？
+Nǐ xǐhuān hē kāfēi háishì hē mǒchá?
+Do you like coffee or matcha?
+
+我请你们一起去喝一点儿抹茶吧。
+Wǒ qǐng nǐmen yìqǐ qù hē yìdiǎnr mǒchá ba.
+I will treat you all to some matcha sometime!
+
+祝大家上课顺利！
+Zhù dàjiā shàngkè shùnlì!
+Best of lock with courses!
+
+很高兴认识你们，再见！
+Hěn gāoxìng rènshi nǐmen, zàijiàn!
+Nice meeting you all, bye!
 </details>
+
+[**Video Script PDF**]({{ site.baseurl }}{% link /assets/documents/CHIN 131 Final Project Script.pdf %})
 
 ## Learning Reflection
 
@@ -43,7 +215,7 @@ Overall, my learning from this course has given me new tools to strengthen my in
 
 ## Character Exploration: 喜
 
-<img src="/blog/assets/images/HeyTea.jpg" alt="Hey Tea storefront" width="500">
+<img src="/assets/images/HeyTea.jpg" alt="Hey Tea storefront" width="500">
 
 ### **Character and Pinyin**
 喜 (xǐ)
@@ -71,7 +243,7 @@ Hey Tea is extremely popular in China with over 4,000 stores, and its expansion 
 
 ## Character Exploration: 包
 
-<img src="/blog/assets/images/YummyBao.jpg" alt="Yummy Bao storefront" width="500">
+<img src="/assets/images/YummyBao.jpg" alt="Yummy Bao storefront" width="500">
 
 ### **Character and Pinyin**
 包 (bāo)
@@ -97,7 +269,7 @@ Crystal Mall itself is a cultural hub in Burnaby. Walking through it feels like 
 
 ## Character Exploration: 富
 
-<img src="/blog/assets/images/Slogan.jpg" alt="Chinese Slogan" width="500">
+<img src="/assets/images/Slogan.jpg" alt="Chinese Slogan" width="500">
 
 ### **Character and Pinyin**
 富 (fù)
