@@ -187,7 +187,7 @@ Hěn gāoxìng rènshi nǐmen, zàijiàn!
 Nice meeting you all, bye!
 </details>
 
-[**Video Script PDF**]({{ site.baseurl }}{% link /assets/documents/CHIN 131 Final Project Script.pdf %})
+[**Video Script PDF**]({{ site.baseurl }}{% link /blog/assets/documents/CHIN 131 Final Project Script.pdf %})
 
 ## Learning Reflection
 
@@ -215,7 +215,7 @@ Overall, my learning from this course has given me new tools to strengthen my in
 
 ## Character Exploration: 喜
 
-<img src="/assets/images/HeyTea.jpg" alt="Hey Tea storefront" width="500">
+<img src="/blog/assets/images/HeyTea.jpg" alt="Hey Tea storefront" width="500">
 
 ### **Character and Pinyin**
 喜 (xǐ)
@@ -243,7 +243,7 @@ Hey Tea is extremely popular in China with over 4,000 stores, and its expansion 
 
 ## Character Exploration: 包
 
-<img src="/assets/images/YummyBao.jpg" alt="Yummy Bao storefront" width="500">
+<img src="/blog/assets/images/YummyBao.jpg" alt="Yummy Bao storefront" width="500">
 
 ### **Character and Pinyin**
 包 (bāo)
@@ -269,7 +269,7 @@ Crystal Mall itself is a cultural hub in Burnaby. Walking through it feels like 
 
 ## Character Exploration: 富
 
-<img src="/assets/images/Slogan.jpg" alt="Chinese Slogan" width="500">
+<img src="/blog/assets/images/Slogan.jpg" alt="Chinese Slogan" width="500">
 
 ### **Character and Pinyin**
 富 (fù)
