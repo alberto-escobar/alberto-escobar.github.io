@@ -1,3 +1,8 @@
+---
+title: "2025W1 CHIN 131 Final Project"
+slug: 2025w1-chin-131-final-project
+---
+
 # 2025W1 CHIN 131 Final Project
 
 ## Self Introduction
