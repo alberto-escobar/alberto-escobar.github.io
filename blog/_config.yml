@@ -4,13 +4,6 @@ url: "http://alberto-escobar.github.io"
 markdown: kramdown
 permalink: pretty
 
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
 highlighter: rouge
 kramdown:
   input: GFM
