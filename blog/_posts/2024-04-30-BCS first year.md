@@ -1,6 +1,6 @@
 ---
 title: "Review of my first year in BCS"
-slug: review-of-my-first-year-in-bcs
+slug: review-of-first-year-bcs
 ---
 
 # Review of my first year in BCS
