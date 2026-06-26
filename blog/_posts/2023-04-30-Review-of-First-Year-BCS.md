@@ -41,7 +41,7 @@ I genuinely believe this was probably the best course I could have taken at the 
 - **Interest**: 4/5
 - **Difficulty**: 3/5
 
-*[image of game]*
+<img src="/blog/assets/images/Game.jpg" alt="Green House Manager Game" width="500">
 
 ## STAT 302 - Introduction to Probability
 
