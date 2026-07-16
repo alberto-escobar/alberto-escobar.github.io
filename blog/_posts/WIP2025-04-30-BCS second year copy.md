@@ -12,6 +12,7 @@ I completed my second year of BCS and wanted to provide a review of the courses 
 - **Difficulty**: How difficult the course was
 
 ## CPSC 304 - Introduction to Relational Databases
+This course covers introducitions to relational databased. 
 
 ## CPSC 313 - Computer Hardware and Operating Systems
 
