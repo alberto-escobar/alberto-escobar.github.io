@@ -1,0 +1,5 @@
+title: Alberto Escobar
+url: "https://alberto-escobar.github.io"
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
