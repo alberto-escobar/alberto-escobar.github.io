@@ -11,7 +11,9 @@ I completed my first year of BCS and wanted to provide a review of the courses I
 - **Interest**: How interesting the course was
 - **Difficulty**: How difficult the course was
 
-## ENGL 110 - Approaches to Literature and Culture
+## 2023W1
+
+### ENGL 110 - Approaches to Literature and Culture
 
 This course is an introductory English literature course. I had to take it since it was a requirement for any student in the sciences to take one English course in their degree. The course was structured around reading four novels throughout the semester, and for each novel we had to write an essay discussing a topic from a list the professor provided. We could also write about our own topics with the professor's approval. The books I read were:
 
@@ -26,7 +28,7 @@ The course was interesting and introduced me to some excellent novels, as well a
 - **Interest**: 4/5
 - **Difficulty**: 3/5
 
-## CPSC 121 - Models of Computation
+### CPSC 121 - Models of Computation
 
 This course explored several topics relating to logic, logical circuits, and proofs. The course structure included weekly labs, tutorials, and quizzes, monthly assignments, two midterms, tutorial and lecture participation, and a final exam. This meant a lot of time was spent each week reviewing material and completing the weekly tasks.
 
@@ -36,7 +38,7 @@ Personally, I found it hard to stay focused while studying for this course, as t
 - **Interest**: 2/5
 - **Difficulty**: 4/5
 
-## CPSC 210 - Software Construction
+### CPSC 210 - Software Construction
 
 This course was centered around object-oriented design. The course consisted of a course project, two midterms, lab exercises, and a final exam.
 
@@ -48,7 +50,7 @@ I genuinely believe this was probably the best course I could have taken at the 
 
 <img src="/blog/assets/images/Game.png" alt="Green House Manager Game" width="500">
 
-## STAT 302 - Introduction to Probability
+### STAT 302 - Introduction to Probability
 
 This course covered the fundamentals of probability. The course structure was weekly assignments (a mix of paper and WeBWorK assignments), weekly quizzes, two midterms, and a final exam.
 
@@ -58,7 +60,9 @@ I became heavily interested in this course, as it helped bridge a lot of gaps in
 - **Interest**: 4/5
 - **Difficulty**: 3/5
 
-## CPSC 213 - Introduction to Computer Systems
+## 2023W2
+
+### CPSC 213 - Introduction to Computer Systems
 
 This course is an introduction to computer architecture. The course structure involved participation in weekly labs and lectures, weekly assignments, three quizzes (which really felt more like midterms), and a final exam.
 
@@ -70,7 +74,7 @@ You will be introduced to the various concepts of computation, the parts of a co
 - **Interest**: 4/5
 - **Difficulty**: 5/5
 
-## CPSC 221 - Basic Algorithms and Data Structures
+### CPSC 221 - Basic Algorithms and Data Structures
 
 This course is an introduction to algorithms and data structures. The course structure consisted of six assignments, weekly labs, weekly examlets (similar to a quiz), and a final exam.
 
@@ -80,7 +84,7 @@ We covered a lot of the essential algorithms and data structures you would see i
 - **Interest**: 3/5
 - **Difficulty**: 3/5
 
-## STAT 305 - Introduction to Statistical Inference
+### STAT 305 - Introduction to Statistical Inference
 
 This course introduces statistical inference. For readers who don't know, "inference" means deriving a logical conclusion from evidence, so in this course we are taught how to draw conclusions from data using statistics. The course structure consisted of weekly labs, weekly assignments, three quizzes, and a final exam.
 
