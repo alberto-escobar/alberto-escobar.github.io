@@ -93,3 +93,11 @@ I will be honest, this course was difficult to get through. It's not that the ma
 - **Utility**: 1/5
 - **Interest**: 1/5
 - **Difficulty**: 3/5
+
+## Final thoughts
+
+The hardest part of this year had nothing to do with the coursework. It was going from working mode back to school mode, and that took a lot longer than I expected. Building the habit of studying and chipping away at assignments every day is not easy after a few years of a 9-5 job, and I underestimated how much of that habit I had lost.
+
+The bigger lesson was about the internship search. Do not wait on the school's co-op program to process your application before you start looking. As a first year I got delayed access to the co-op job board, and because I didn't bother searching anywhere else, I missed the window on some amazing companies entirely. Start early and work whatever job boards you can find on your own, the co-op board should be one of your many job boards, not your only one.
+
+Lastly, and this is one I could have done much better on: go to the networking events, the workshops, and the socials. University is one of the best places you will ever have to build a network, and it takes deliberate effort to actually do it. Professional or personal, those connections matter more than one more hour of studying would have.
