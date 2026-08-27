@@ -181,6 +181,38 @@ div.flex-container > div {
     background-color: var(--hoverColor)
 }
 
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    max-width: 500px;
+    margin: 8px 0;
+    padding: 12px;
+    font-family: inherit;
+    font-size: var(--fontSize);
+    background-color: var(--backgroundColor);
+    color: var(--textColor);
+    border: 1px solid var(--textColor);
+    box-sizing: border-box;
+}
+
+.contact-form textarea {
+    resize: vertical;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+    outline: none;
+    border-color: var(--hoverColor);
+}
+
 ul {
     list-style-position: outside;
 }

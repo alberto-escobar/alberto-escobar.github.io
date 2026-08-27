@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contact - Alberto Escobar Mingo</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="CSS/stylesheet.css" rel="stylesheet" />
+        <script src="https://kit.fontawesome.com/d0311a39ec.js" crossorigin="anonymous"></script>
+        <script src="script/onhover.js" defer></script>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9VJ95EDFFB"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-9VJ95EDFFB');
+        </script>
+    </head>
+
+    <body class="fadeup">
+
+        <ul class = "topnav">
+            <li class = "left"><a id = "nav" href="index.html">&nbsp;Alberto Escobar Mingo&nbsp;</a></li>
+            <li><a id = "nav" href="main.html#projects">&nbsp;Projects&nbsp;</a></li>
+            <li><a id = "nav" href="main.html#experiences">&nbsp;Experiences&nbsp;</a></li>
+            <li><a id = "nav" href="main.html#education">&nbsp;Education&nbsp;</a></li>
+            <li><a id = "nav" href="blog/">&nbsp;Blog&nbsp;</a></li>
+        </ul>
+
+        <!-- START OF CONTACT SECTION -->
+        <div>
+            <h1>
+                Contact
+            </h1>
+            <div class="description">
+                Have a question or want to get in touch? Send me a message below.
+            </div>
+            <br>
+            <form class="contact-form" action="https://api.web3forms.com/submit" method="POST">
+                <input type="hidden" name="access_key" value="d72e3ea2-c18e-49d5-9aab-046b5c92e36b">
+                <input type="text" name="name" placeholder="Name" required>
+                <input type="email" name="email" placeholder="Email" required>
+                <textarea name="message" placeholder="Message" rows="6" required></textarea>
+                <button type="submit" class="button">Submit</button>
+            </form>
+        </div>
+        <!-- END OF CONTACT SECTION -->
+
+        <div>
+            <footer>
+                Website developed by Alberto Escobar Mingo
+            </footer>
+        </div>
+
+    </body>
+</html>
