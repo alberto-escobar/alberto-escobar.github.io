@@ -98,6 +98,56 @@
                 Experiences
             </h1>
             <hr>
+            <!-- START OF SDE FULL TIME -->
+            <div class="flex-container" >
+                <div class="title"> Software Development Engineer<br><span class="company">Amazon Web Services</span></div>
+                <div class="date">
+                    July 2026 - Present
+                </div>
+            </div>
+
+            <div class="flex-container">
+                <div>
+                    <img src="..\images\thepost.jpg" alt="AWS" class="responsive">
+                </div>
+                <div class="description">
+                    <ul>
+                        <li>Building and operating backend services for the control plane that automatically adjusts capacity across EC2, ECS, DynamoDB, and other AWS resources, as part of the Application Auto Scaling team on the EC2 Core Platform org.</li>
+                    </ul>
+                </div>
+            </div>
+            <div style="text-align: right;">
+                <a target="_blank" href="https://aws.amazon.com/">
+                    <i class="socials fa-brands fa-aws"></i>
+                </a>
+            </div>
+            <hr>
+            <!-- START OF CPSC 310 TA -->
+            <div class="flex-container" >
+                <div class="title"> CPSC 310 Teaching Assistant<br><span class="company">University of British Columbia</span></div>
+                <div class="date">
+                    January 2026 - April 2026
+                </div>
+            </div>
+
+            <div class="flex-container">
+                <div>
+                    <img src="..\images\icicsbuilding.jpg" alt="UBC" class="responsive">
+                </div>
+                <div class="description">
+                    <ul>
+                        <li>Led weekly labs for the course's full-stack web application project, guiding students through design decisions and debugging implementation issues as they built out their systems</li>
+                        <li>Evaluated student project submissions against course rubrics and invigilated exams to uphold academic standards</li>
+                        <li>Served as a go-to resource on Piazza, answering student questions on core software engineering concepts covered in lecture</li>
+                    </ul>
+                </div>
+            </div>
+            <div style="text-align: right;">
+                <a target="_blank" href="https://www.cs.ubc.ca/course-section/cpsc-v-310-201-2025w">
+                    <i class="socials fas fa-chalkboard-teacher"></i>
+                </a>
+            </div>
+            <hr>
             <!-- START OF Experience -->
             <div class="flex-container" >
                 <div class="title"> Software Development Engineer Intern<br><span class="company">Amazon Web Services</span></div>
@@ -154,9 +204,36 @@
             </div>
             <hr>
             <div class="flex-container" >
+                <div class="title"> Controller/Simulator Team Lead<br><span class="company">UBCSailbot</span></div>
+                <div class="date">
+                    September 2025 - April 2026
+                </div>
+            </div>
+
+            <div class="flex-container">
+                <div>
+                    <img src="..\images\polaris.png" alt="Polaris" class="responsive">
+                </div>
+                <div class="description">
+                    <ul>
+                        <li>Led the Controller/Simulator team through the critical integration phase of the Polaris project, coordinating the merging of individually developed subsystems into a single cohesive control stack ready for in-water testing</li>
+                        <li>Directed in-water testing sessions, translating on-the-water results into actionable fixes and improvements for the team</li>
+                        <li>Mentored new recruits joining the team, onboarding them onto the codebase and guiding their technical growth</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div style="text-align: right;">
+                <a target="_blank" href="https://www.ubcsailbot.org/">
+                    <i class="socials fas fa-sailboat"></i>
+                </a>
+            </div>
+            <hr>
+
+            <div class="flex-container" >
                 <div class="title"> Software Developer<br><span class="company">UBCSailbot</span></div>
                 <div class="date">
-                    September 2023 - Present
+                    September 2023 - August 2025
                 </div>
             </div>
 
@@ -166,7 +243,7 @@
                 </div>
                 <div class="description">
                     <ul>
-                        <li>Spearheading the design and implementation of mission-critical control software for an autonomous sailboat aimed
+                        <li>Spearheaded the design and implementation of mission-critical control software for an autonomous sailboat aimed
                             at collecting oceanic data to enable climate scientists to better understand our oceans and global warming</li>
                         <li>Decreased travel time of voyages by 20% by devising an efficient sail control algorithm that optimizes for speed
                             across various control states and sailing maneuvers</li>
@@ -297,6 +374,92 @@
             <h1> 
                 Projects
             </h1>
+            <!-- START OF FERRITE ENTRY -->
+            <hr>
+            <img src="..\images\ferrite.png" alt="exmaple" class="responsive center" style = "max-width: 1000px;">
+            <div class = "title">
+                Ferrite - Self-Hosted Music Streaming Service
+            </div>
+            <div class="description">
+                Ferrite is a self-hosted music streaming server I built in Rust with Axum that scans a music library, extracts metadata, and indexes everything into a SQLite database for fast queries, then streams audio on demand using HTTP range requests so seeking is instant and only the bytes being played are transferred.
+                It can also pull songs directly from YouTube via yt-dlp and uses AI to fill in missing metadata for imported tracks.
+                The service runs as an ARM64 Docker container on a Raspberry Pi, deployed automatically by a GitHub Actions pipeline that cross-compiles and pushes a new image on every push to main, which a watcher on the Pi picks up and redeploys with no manual SSH step.
+                I made Ferrite publicly accessible using DuckDNS for a stable domain over a home connection with a changing IP, Nginx as a reverse proxy with Let's Encrypt HTTPS certificates, and Cloudflare Turnstile gating requests behind a bot check instead of a shared password.
+            </div>
+            <div style="text-align: right;">
+                <a  target="_blank" href="https://ferrite-music.duckdns.org/"><i  class="socials fas fa-solid fa-globe"></i></a>
+                <a  target="_blank" href="https://github.com/alberto-escobar/ferrite"><i  class="socials fas fa-solid fa-file-code"></i></a>
+            </div>
+
+            <!-- START OF BLOOM ENTRY -->
+            <hr>
+            <div class="responsive center" style="max-width: 1000px; aspect-ratio: 16/9;">
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vFU1GSWrbRk" title="Bloom Demo" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class = "title">
+                Bloom
+            </div>
+            <div class="description">
+                Bloom is an AI-powered caretaker platform I built for elderly users to help address the global aging crisis, where healthcare systems are increasingly unable to keep pace and 75% of dementia cases go undiagnosed until months of cognitive decline have already passed.
+                The platform's voice-first assistant handles conversational requests like booking rides or checking appointments by automating tasks across pharmacy, insurance, and healthcare websites using Browserbase Stagehand and Claude.
+                A cognitive monitoring system analyzes speech patterns during calls for early warning signs of decline, giving caretakers clinical summaries, trend reports, and doctor-exportable data, along with clinically-backed cognitive exercises.
+                Bloom also provides proactive companionship through personalized weekly reports featuring reminiscence therapy and family highlights, and a real-time health dashboard powered by WHOOP wearable data.
+                The project was built using React Native, Next.js, FastAPI, MongoDB, and Claude, and was awarded 1st Place in the Human Flourishing Track and Best Conversational Assistant at TreeHacks 2026.
+            </div>
+            <div style="text-align: right;">
+                <a  target="_blank" href="https://devpost.com/software/bloom-dvjpea"><i  class="socials fas fa-solid fa-link"></i></a>
+                <a  target="_blank" href="https://github.com/Kevinxygu/treehacks"><i  class="socials fas fa-solid fa-file-code"></i></a>
+            </div>
+
+            <!-- START OF FREERTOS ENTRY -->
+            <hr>
+            <img src="..\images\edf.png" alt="exmaple" class="responsive center" style = "max-width: 1000px;">
+            <div class = "title">
+                FreeRTOS Real-Time Scheduler Extensions
+            </div>
+            <div class="description">
+                Extended the FreeRTOS kernel to support real-time scheduling on a Raspberry Pi Pico (RP2040), replacing the default priority-based scheduler with an Earliest Deadline First (EDF) scheduler backed by a globally sorted ready list, exact processor-demand admission control, and configurable deadline-miss handling.
+                Added the Stack Resource Policy (SRP) on top of EDF to provide bounded-blocking resource sharing for binary semaphores through ceiling-based preemption tests, along with run-time stack sharing between tasks at the same preemption level.
+                Implemented a Constant Bandwidth Server (CBS) to service aperiodic, soft real-time requests alongside hard real-time periodic tasks, isolating aperiodic execution through a dynamic virtual deadline that postpones itself whenever a server's CPU budget is exhausted.
+                Extended the scheduler across both cores of the RP2040 with Global EDF, using a single shared ready list with job migration and core-affinity support, and Partitioned EDF, using independent per-core ready lists and admission tests, selectable at compile time.
+            </div>
+            <div style="text-align: right;">
+                <a  target="_blank" href="https://github.com/alberto-escobar/freertos-rt-scheduler"><i  class="socials fas fa-solid fa-file-code"></i></a>
+            </div>
+
+            <!-- START OF SHUTTER QUEST ENTRY -->
+            <hr>
+            <div class="responsive center" style="max-width: 1000px; aspect-ratio: 16/9;">
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/NIWzbreSJFk" title="Shutter Quest Demo" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class = "title">
+                Shutter Quest
+            </div>
+            <div class="description">
+                Shutter Quest is a multiplayer scavenger hunt game I built for nwHacks 2026 that bridges digital connection with physical engagement, challenging friends to look up from their screens and explore the world around them.
+                Players receive AI-generated prompts ranging from direct to cryptic and compete to photograph real-world items matching the description, while an AI system called the Oracle evaluates submissions using computer vision for accuracy and speed.
+                A real-time competitive leaderboard ranks players by "Divine Confidence" (the AI's certainty in a match) and "Temporal Speed" (how quickly the submission was made).
+                The game was built using Next.js, Flask, OpenAI CLIP hosted on a local homelab server, and Supabase.
+            </div>
+            <div style="text-align: right;">
+                <a  target="_blank" href="https://devpost.com/software/shutter-quest"><i  class="socials fas fa-solid fa-link"></i></a>
+                <a  target="_blank" href="https://github.com/khyeo1011/ShutterQuest"><i  class="socials fas fa-solid fa-file-code"></i></a>
+            </div>
+
+            <!-- START OF MICROSERVICE LATENCY RESEARCH ENTRY -->
+            <hr>
+            <img src="..\images\microservices.png" alt="exmaple" class="responsive center" style = "max-width: 600px;">
+            <div class = "title">
+                Microservice Latency Optimization Research
+            </div>
+            <div class="description">
+                Investigated performance bottlenecks in distributed microservice architectures by profiling benchmark applications across deployment configurations using OpenTelemetry and Jaeger distributed tracing.
+                Reduced p99 latency by 50% by implementing Unix Domain Socket communication between co-located services, eliminating network stack overhead in service-to-service calls.
+            </div>
+            <div style="text-align: right;">
+                <a  target="_blank" href="blog/assets/documents/CPSC%20488%20Research%20Report.pdf"><i  class="socials fas fa-solid fa-file-pdf"></i></a>
+            </div>
+
             <!-- START OF NEW BIAS REPORTER EXTENSION-->
             <hr>
             <img src="..\images\news.png" alt="exmaple" class="responsive center" style = "max-width: 1000px;">
