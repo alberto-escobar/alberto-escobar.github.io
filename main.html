@@ -121,7 +121,7 @@
                 </div>
                 <div class="description">
                     <ul>
-                        <li>Building and operating backend services for the control plane that automatically adjusts capacity across EC2, ECS, DynamoDB, and other AWS resources, as part of the Application Auto Scaling team on the EC2 Core Platform org.</li>
+                        <li>Building and operating control plane and data plane services that handle automatic scaling for DynamoDB, Lambda, SageMaker, and other AWS services, as part of the Application Auto Scaling team on the EC2 Core Platform org.</li>
                     </ul>
                 </div>
             </div>
@@ -426,8 +426,8 @@
                 Microservice Latency Optimization Research
             </div>
             <div class="description">
-                Investigated performance bottlenecks in distributed microservice architectures by profiling benchmark applications across deployment configurations using OpenTelemetry and Jaeger distributed tracing.
-                Reduced p99 latency by 50% by implementing Unix Domain Socket communication between co-located services, eliminating network stack overhead in service-to-service calls.
+                Investigated communication overheads in microservice architectures, benchmarking TCP against Unix Domain Sockets across single-host, distributed, and virtualized deployments using Jaeger distributed tracing.
+                Showed TCP inflates p99 tail latency by up to 350% over UDS for intra-host calls, and designed a hybrid UDS/TCP model cutting p99 latency 8% in distributed deployments.
             </div>
             <div style="text-align: right;">
                 <a  target="_blank" href="blog/assets/documents/CPSC%20488%20Research%20Report.pdf"><i  class="socials fas fa-solid fa-file-pdf"></i></a>
