@@ -3,3 +3,9 @@ url: "https://alberto-escobar.github.io"
 theme: jekyll-theme-primer
 plugins:
   - jekyll-seo-tag
+defaults:
+  - scope:
+      path: "blog/_posts"
+      type: "posts"
+    values:
+      layout: post
