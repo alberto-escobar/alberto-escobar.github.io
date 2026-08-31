@@ -356,8 +356,8 @@
             <div class="description">
                 Ferrite is a self-hosted music streaming server I built in Rust with Axum that scans a music library, extracts metadata, and indexes everything into a SQLite database for fast queries, then streams audio on demand using HTTP range requests so seeking is instant and only the bytes being played are transferred.
                 It can also pull songs directly from YouTube via yt-dlp and uses AI to fill in missing metadata for imported tracks.
-                The service runs as an ARM64 Docker container on a Raspberry Pi, deployed automatically by a GitHub Actions pipeline that cross-compiles and pushes a new image on every push to main, which a watcher on the Pi picks up and redeploys with no manual SSH step.
-                I made Ferrite publicly accessible using DuckDNS for a stable domain over a home connection with a changing IP, Nginx as a reverse proxy with Let's Encrypt HTTPS certificates, and Cloudflare Turnstile gating requests behind a bot check instead of a shared password.
+                The service runs as an ARM64 Docker container on a Raspberry Pi, deployed automatically by a GitHub Actions pipeline that cross-compiles and pushes a new image on every push to main.
+                I made Ferrite publicly accessible using DuckDNS for a stable domain over a home connection with a changing IP, Nginx as a reverse proxy with Let's Encrypt HTTPS certificates, and Cloudflare Turnstile gating requests behind a bot check.
             </div>
             <div style="text-align: right;">
                 <a  target="_blank" href="https://ferrite-music.duckdns.org/"><i  class="socials fas fa-solid fa-globe"></i></a>
