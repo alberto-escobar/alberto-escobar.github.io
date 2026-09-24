@@ -26,9 +26,7 @@ My project investigated the communication overheads between microservices. I had
 
 I had the pleasure of being supervised by Reto Achermann and his colleague Michael Giardino from Huawei. The project was very interesting because it touched on a lot of systems concepts I enjoyed deep diving into, and it positioned me to learn a lot about microservice architectures, Docker, networking, and computer systems in general. There were plenty of moments where I was frustrated with running experiments and stuck on how to move forward, but I think those moments are important to experience in university, because you need the same skills to innovate at a company. Being able to carry out experiments and produce results that are useful to others is an important skill set to have. The one thing I would do differently is commit to the project for longer. One semester doesn't really produce anything substantial, and if you want to publish in a journal or conference, two semesters of research is a much better target.
 
-If you are interested in my work, my research report is <a href="{{ site.baseurl }}{% link /blog/assets/documents/CPSC 488 Research Report.pdf %}" target="_blank">
-  **here**
-</a>.
+If you are interested in my work, my research report is <a href="{{ site.baseurl }}{% link /blog/assets/documents/CPSC 488 Research Report.pdf %}" target="_blank">**here**</a>.
 
 It is hard to score this course on utility, interest, and difficulty, since it really depends on the professor and the project you choose.
 
@@ -50,7 +48,7 @@ The difficulty is up there. The course builds on knowledge from your other syste
 
 ### CHIN 131 - Basic Chinese I: Part 1
 
-This will be a quick review. I took a language course because I had never taken one at the university level before. Overall it was pretty fun, and I found that learning a language so different from English (or the Romance languages in general) was a great way to exercise my brain. My Chinese speaking improved substantially compared to the work I had done on apps. The course covered eight lessons' worth of material (each lesson took about two weeks), with two to three quizzes per lesson covering listening, writing, and reading. On top of that there was one midterm project done with a partner and one final project done individually. I have a post on my blog about my <a href="{{ site.baseurl }}{% link /blog/2025/12/11/chin-131-final-project.html %}" target="_blank">**final project**</a>.
+This will be a quick review. I took a language course because I had never taken one at the university level before. Overall it was pretty fun, and I found that learning a language so different from English (or the Romance languages in general) was a great way to exercise my brain. My Chinese speaking improved substantially compared to the work I had done on apps. The course covered eight lessons' worth of material (each lesson took about two weeks), with two to three quizzes per lesson covering listening, writing, and reading. On top of that there was one midterm project done with a partner and one final project done individually. I have a post on my blog about my <a href="{{ site.baseurl }}{% link blog/_posts/2025-12-11-CHIN 131 Project.md %}" target="_blank">**final project**</a>.
 
 The course was especially tough for a first-year course because of the volume of homework you have to complete week to week, so don't expect it to be an easy elective.
 
@@ -88,7 +86,7 @@ This course isn't particularly useful beyond being a fun fact I can bring up in 
 
 This is the second half of the CHIN 131 course I took the semester before, so this will be another quick review. The course was a noticeable step up in difficulty, since the expectations for reading, writing, listening, and speaking are all much higher. You are expected to recognize more characters, follow faster conversations, and hold longer ones yourself, so keeping up with the material every week matters even more than it did in CHIN 131.
 
-The course covered six lessons, a midterm project, and a final project. I wrote a post about my <a href="{{ site.baseurl }}{% link /blog/2026/04/14/chin-133-final-project.html %}" target="_blank">**final project**</a> if you want to check it out.
+The course covered six lessons, a midterm project, and a final project. I wrote a post about my <a href="{{ site.baseurl }}{% link blog/_posts/2026-04-14-CHIN 133 Project.md %}" target="_blank">**final project**</a> if you want to check it out.
 
 After taking this course, I definitely felt my Mandarin improve significantly compared to the start of the school year before I took CHIN 131. It is rewarding to look back and realize I can now hold simple conversations that would have been impossible a few months earlier. Hopefully it comes in handy when I travel to China this summer.
 
