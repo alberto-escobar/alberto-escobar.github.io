@@ -26,7 +26,7 @@ My project investigated the communication overheads between microservices. I had
 
 I had the pleasure of being supervised by Reto Achermann and his colleague Michael Giardino from Huawei. The project was very interesting because it touched on a lot of systems concepts I enjoyed deep diving into, and it positioned me to learn a lot about microservice architectures, Docker, networking, and computer systems in general. There were plenty of moments where I was frustrated with running experiments and stuck on how to move forward, but I think those moments are important to experience in university, because you need the same skills to innovate at a company. Being able to carry out experiments and produce results that are useful to others is an important skill set to have. The one thing I would do differently is commit to the project for longer. One semester doesn't really produce anything substantial, and if you want to publish in a journal or conference, two semesters of research is a much better target.
 
-If you are interested in my work, my research report is <a href="{{ site.baseurl }}{% link /blog/assets/documents/CPSC 488 Research Report.pdf %}" target="_blank">**here**</a>.
+If you are interested in my work, my research report is <a href="{{ site.baseurl }}{% link /blog/assets/documents/CPSC 498 Research Report.pdf %}" target="_blank">**here**</a>.
 
 It is hard to score this course on utility, interest, and difficulty, since it really depends on the professor and the project you choose.
 
