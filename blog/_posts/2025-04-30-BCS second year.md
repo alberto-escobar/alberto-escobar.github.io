@@ -117,6 +117,10 @@ The difficulty is high. You need the patience to slow down, understand the mater
 
 Lastly, the professor. I had the honor of being taught by Robert Xiao, a renowned CTF competitor who has taken first place at DEF CON CTF multiple times. Genuinely one of the best professors I have had, and showing up to his class was a complete joy.
 
+The course also inspired me to build my own <a href="https://ef78c8d939dd77f.github.io/" target="_blank">**CTF challenge**</a> on the side. I dropped the link on Piazza, and the Robert beat it in about 30 minutes. If you want to try it yourself, feel free to give it a shot!
+
+The Robert also offered bonus marks for participating in picoCTF, which was a great excuse to spend even more time on challenges outside of the assignments. I kept all of my solutions and write-ups from the competition in <a href="https://github.com/alberto-escobar/PICOCTF2025" target="_blank">**this repo**</a> if you want to see how I approached them.
+
 If you have the opportunity to take this course, take it.
 
 - **Utility**: 5/5
