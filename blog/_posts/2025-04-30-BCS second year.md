@@ -3,8 +3,6 @@ title: "Review of my second year in BCS"
 slug: review-of-second-year-in-bcs
 ---
 
-# Review of my second year in BCS
-
 I finished my second year of BCS and wanted to review the courses I took during 2024W1 and 2024W2. For each course I give a score on the following aspects:
 
 - **Utility**: How useful the course was for later courses or projects
